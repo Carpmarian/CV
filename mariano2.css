@@ -1,0 +1,94 @@
+.principal {
+width: 22,5%;
+float: left;
+background: #D0d0d0;
+text-align: center;
+Border-radius:15px;
+position: fixed;
+}
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: Arial;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  width: 250px;
+}
+ul {
+  list-style: none;
+
+}
+.contenido {
+  float: right;
+  width: 70%;
+  text-align: center;
+  background:#B1B1B1;
+}
+.contenido2 {
+  float: right;
+  text-align: center;
+  width: 70%;
+  background: #B1B1B1;
+  margin-top: 10px;
+}
+.contenido3 {
+  float: right;
+  text-align: center;
+  width: 70%;
+  background: #B1B1B1;
+  margin-top: 10px;
+
+}
+.contenido4 {
+  float: right;
+  text-align: center;
+  width: 70%;
+  background: #B1B1B1;
+  margin-top: 10px;
+}
+.contenido5 {
+  float: right;
+  text-align: center;
+  width: 70%;
+  background: #B1B1B1;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.contenido, .contenido2, .contenido3, .contenido4, .contenido5 {
+border: 2px B1B1B1 solid;
+Border-radius:15px;
+}
+.contenido ul li a {
+  float: left;
+  display:inline-block;
+  color:#fff;
+  background: #000;
+  padding: 10px 15px;
+  text-decoration: none;
+  -moz-trasition:all 500ms ease;
+  -ms-trasition:all 500ms ease;
+  -o-trasition:all 500ms ease;
+  -trasition:all 500ms ease;
+  }
+.contenido ul li .icon-facebook{background:#3b5998; }
+.contenido ul li .icon-twitter{background:#00abf0; }
+.contenido ul li .icon-instragram{background: #3f729b;}
+.contenido ul li .icon-google-plus3{background:#d34836; }
+.contenido ul li a:hover {
+  padding: 10px 30px;
+
+}
+.redes {
+  margin-left:350px;
+  margin-top: 10px;
+}
+h2 {
+  font-size: 50px;
+}
+.texto {
+  text-align: center;
+}
