@@ -62,26 +62,7 @@ ul {
 border: 2px B1B1B1 solid;
 Border-radius:15px;
 }
-.contenido ul li a {
-  float: left;
-  display:inline-block;
-  color:#fff;
-  background: #000;
-  padding: 10px 15px;
-  text-decoration: none;
-  -moz-trasition:all 500ms ease;
-  -ms-trasition:all 500ms ease;
-  -o-trasition:all 500ms ease;
-  -trasition:all 500ms ease;
-  }
-.contenido ul li .icon-facebook{background:#3b5998; }
-.contenido ul li .icon-twitter{background:#00abf0; }
-.contenido ul li .icon-instragram{background: #3f729b;}
-.contenido ul li .icon-google-plus3{background:#d34836; }
-.contenido ul li a:hover {
-  padding: 10px 30px;
 
-}
 .redes {
   margin-left:350px;
   margin-top: 10px;
